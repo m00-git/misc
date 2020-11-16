@@ -1,0 +1,7 @@
+-inurl:htm -inurl:html intitle:"index of" 100CANON
+-inurl:htm -inurl:html intitle:"index of" NIKON
+inurl:/remote/login?lang=en   //Find FortiGate Firewall's SSL-VPN login portal.
+inurl:".php?id=" "You have an error in your SQL syntax"    //
+TX_start" "card_name" ext:log
+screen mode id:" ext:rdp
+"SECRET//NOFORN" ext:pdf[
